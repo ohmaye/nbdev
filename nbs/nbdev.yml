@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://ohmaye.github.io/nbdev"
+  description: "ls"
+  repo-branch: main
+  repo-url: "https://github.com/ohmaye/nbdev"
